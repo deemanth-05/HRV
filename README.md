@@ -1,2 +1,2 @@
 # HRV
-Heart Rate Variability
+Heart Rate Variability using BVP
